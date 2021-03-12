@@ -19,5 +19,3 @@
 ![](https://img.shields.io/badge/Tools-Influxdb-informational?style=flat&logo=influxdb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=orange)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marco-silveira&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
