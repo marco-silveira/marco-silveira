@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcosilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-antônio-silveira-souza-alves-753a26170/)](https://www.linkedin.com/in/marco-antônio-silveira-souza-alves-753a26170/) [![Gmail Badge](https://img.shields.io/badge/-contato@marcosilveira.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@marcosilveira.com)](mailto:contato@marcosilveira.com) 
 
 - :man_technologist: Computer Science student at [DCC/UFMG](https://www.dcc.ufmg.br/dcc/?q=en/node/250)
-- :cook: Software Engineer at [Studio Sol](https://www.studiosol.com.br)
+- :cook: Data Engineer at [Inter](https://www.bancointer.com.br/)
 - :brazil: Belo Horizonte / MG
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
